@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.22512.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ToDoList", "ToDoList\ToDoList.kproj", "{DC137C8D-4FA9-45BD-B6CE-AB31B1864DA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Common", "Tests.Common\Tests.Common.csproj", "{CC8520FA-CED2-49FF-81BB-9C35DB8CB3FD}"
-EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Lib.Common", "Lib.Common\Lib.Common.kproj", "{69C5417D-FE41-4B81-971F-FF8D768A4E91}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{DC137C8D-4FA9-45BD-B6CE-AB31B1864DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC137C8D-4FA9-45BD-B6CE-AB31B1864DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC137C8D-4FA9-45BD-B6CE-AB31B1864DA4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CC8520FA-CED2-49FF-81BB-9C35DB8CB3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CC8520FA-CED2-49FF-81BB-9C35DB8CB3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CC8520FA-CED2-49FF-81BB-9C35DB8CB3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CC8520FA-CED2-49FF-81BB-9C35DB8CB3FD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{69C5417D-FE41-4B81-971F-FF8D768A4E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{69C5417D-FE41-4B81-971F-FF8D768A4E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C5417D-FE41-4B81-971F-FF8D768A4E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
